@@ -1,0 +1,28 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Candy Simply-Fi account",
+        "description": "Sign in with the same email and password you use in the Candy simply-Fi app.",
+        "data": {
+          "email": "Email",
+          "password": "Password"
+        }
+      },
+      "appliance": {
+        "title": "Select appliance",
+        "data": {
+          "appliance_id": "Appliance"
+        }
+      }
+    },
+    "error": {
+      "auth": "Authentication failed. Check the client_id, refresh_token and auth endpoint.",
+      "cannot_connect": "Could not reach the Simply-Fi cloud.",
+      "no_appliances": "No appliances found on this account."
+    },
+    "abort": {
+      "already_configured": "This appliance is already configured."
+    }
+  }
+}

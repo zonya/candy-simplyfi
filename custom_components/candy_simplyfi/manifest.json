@@ -1,0 +1,11 @@
+{
+  "domain": "candy_simplyfi",
+  "name": "Candy Simply-Fi (Cloud)",
+  "codeowners": ["@zonya"],
+  "config_flow": true,
+  "documentation": "https://github.com/zonya/candy-simplyfi",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/zonya/candy-simplyfi/issues",
+  "requirements": [],
+  "version": "0.1.0"
+}
