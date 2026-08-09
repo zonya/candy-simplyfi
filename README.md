@@ -93,3 +93,10 @@ API contract reverse-engineered from
 [`georgi-m-iliev/LaundryMaster`](https://github.com/georgi-m-iliev/LaundryMaster)
 and [`TA2k/ioBroker.hoover`](https://github.com/TA2k/ioBroker.hoover). Local-API
 alternative: [`ofalvai/home-assistant-candy`](https://github.com/ofalvai/home-assistant-candy).
+
+## ☕ Support
+
+This is a free project built in spare time. If it saved you an evening, you can
+[buy me a coffee](https://ko-fi.com/zonya2026).
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/zonya2026)
